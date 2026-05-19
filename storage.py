@@ -1,5 +1,7 @@
 import json
 import os
+from models import Book
+
 
 STORAGE_FILE = "books.json"
 
