@@ -9,3 +9,5 @@ def average_progress(books):
         return 0
     total_progress = sum(book.progress() for book in books)
     return total_progress / len(books)
+
+"добрый день"
