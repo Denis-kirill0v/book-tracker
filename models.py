@@ -9,3 +9,5 @@ class Book:
         if self.pages > 0:
             return (self.current_page / self.pages) * 100
         return 0
+
+"добрый день!"
